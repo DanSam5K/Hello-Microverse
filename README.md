@@ -4,7 +4,7 @@
 > This is simple project to demonstrate understanding of basic HTML and CSS. 
 > I am building a professional project and giving attention to the project documentation by including a descriptive README as a training exercise experience.
 
-[screenshot](./app_screenshot.png)
+![screenshot](./app_screenshot.png)
 ## Build with
 1. HTML
 2. style with CSS.
