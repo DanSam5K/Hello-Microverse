@@ -1,65 +1,36 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
+# Hello-Microverse
 
-# Project Name
-
-> One paragraph statement about the project.
-
-![screenshot](./app_screenshot.png)
-
-Additional description about the project and its features.
-
-## Built With
-
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
+> This is simple project to demonstrate understanding of basic HTML and CSS. 
+> I am building a professional project and giving attention to the project documentation by including a descriptive README as a training exercise experience.
+## Build with
+1. HTML
+2. style with CSS.
+3. Github
+4. VSCode
 
 ### Deployment
+- Deployed using github pages
 
+[live.demo](https://dansam5k.github.io/Hello-Microverse/)
+## Author
 
+👤 **Daniel Samuel**
+- Github: [DanSam5k](https://github.com/DanSam5k)
+- Twitter: [@_dan_sam](https://twitter.com/_dan_sam)
+- Linkedin: [dansamuel](https://www.linkedin.com/in/dansamuel/)
+## Show your support
 
-## Authors
+Give a ⭐️ if you like this project!
 
-👤 **Author1**
+## 📝 License
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
+This project is [MIT](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/licensing-a-repository) licensed.
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/DanSam5K/Hello-Microverse/issues).
 
 ## Show your support
 
